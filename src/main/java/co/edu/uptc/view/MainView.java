@@ -1,4 +1,4 @@
-package co.edu.uptc;
+package co.edu.uptc.view;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
